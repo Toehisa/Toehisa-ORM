@@ -1,4 +1,4 @@
-package org.toehisa.dao;
+package org.toehisa.dao.tables;
 
 
 import org.toehisa.orm.annotation.Column;
